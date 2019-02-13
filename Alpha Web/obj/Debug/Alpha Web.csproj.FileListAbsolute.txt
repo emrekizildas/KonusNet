@@ -1,0 +1,21 @@
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\Alpha Web.exe.config
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\Debug\Interop.SpeechLib.dll
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\Debug\Alpha Web.csproj.ResolveComReference.cache
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\Alpha Web.exe.manifest
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\Alpha Web.application
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\Alpha Web.exe
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\Alpha Web.pdb
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\CefSharp.dll
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\CefSharp.Example.dll
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\CefSharp.WinForms.dll
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\WebKit.Interop.dll
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\Debug\Alpha_Web.Form1.resources
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\Debug\Alpha_Web.komutlar.resources
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\Debug\Alpha_Web.Properties.Resources.resources
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\Debug\Alpha Web.exe.manifest
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\Debug\Alpha Web.application
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\Debug\Alpha Web.exe
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\Debug\Alpha Web.pdb

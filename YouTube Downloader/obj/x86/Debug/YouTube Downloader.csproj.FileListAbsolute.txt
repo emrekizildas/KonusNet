@@ -1,0 +1,12 @@
+C:\Documents and Settings\Cavorta\Desktop\YouTube Downloader\bin\Debug\YouTube Downloader.exe
+C:\Documents and Settings\Cavorta\Desktop\YouTube Downloader\bin\Debug\YouTube Downloader.pdb
+C:\Documents and Settings\Cavorta\Desktop\YouTube Downloader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Cavorta\Desktop\YouTube Downloader\obj\x86\Debug\YouTube_Downloader.aboutDialog.resources
+C:\Documents and Settings\Cavorta\Desktop\YouTube Downloader\obj\x86\Debug\YouTube_Downloader.frmFileDownloader.resources
+C:\Documents and Settings\Cavorta\Desktop\YouTube Downloader\obj\x86\Debug\YouTube_Downloader.mainForm.resources
+C:\Documents and Settings\Cavorta\Desktop\YouTube Downloader\obj\x86\Debug\YouTube_Downloader.Properties.Resources.resources
+C:\Documents and Settings\Cavorta\Desktop\YouTube Downloader\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Cavorta\Desktop\YouTube Downloader\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\Cavorta\Desktop\YouTube Downloader\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Cavorta\Desktop\YouTube Downloader\obj\x86\Debug\YouTube Downloader.exe
+C:\Documents and Settings\Cavorta\Desktop\YouTube Downloader\obj\x86\Debug\YouTube Downloader.pdb

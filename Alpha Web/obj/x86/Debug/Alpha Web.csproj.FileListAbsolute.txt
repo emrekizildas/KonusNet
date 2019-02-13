@@ -1,0 +1,46 @@
+c:\documents and settings\cavorta\belgelerim\visual studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\Alpha Web.exe
+c:\documents and settings\cavorta\belgelerim\visual studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\Alpha Web.pdb
+c:\documents and settings\cavorta\belgelerim\visual studio 2010\Projects\Alpha Web\Alpha Web\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\cavorta\belgelerim\visual studio 2010\Projects\Alpha Web\Alpha Web\obj\x86\Debug\Alpha_Web.Form1.resources
+c:\documents and settings\cavorta\belgelerim\visual studio 2010\Projects\Alpha Web\Alpha Web\obj\x86\Debug\Alpha_Web.Properties.Resources.resources
+c:\documents and settings\cavorta\belgelerim\visual studio 2010\Projects\Alpha Web\Alpha Web\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\cavorta\belgelerim\visual studio 2010\Projects\Alpha Web\Alpha Web\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\cavorta\belgelerim\visual studio 2010\Projects\Alpha Web\Alpha Web\obj\x86\Debug\Alpha Web.exe
+c:\documents and settings\cavorta\belgelerim\visual studio 2010\Projects\Alpha Web\Alpha Web\obj\x86\Debug\Alpha Web.pdb
+c:\documents and settings\cavorta\belgelerim\visual studio 2010\Projects\Alpha Web\Alpha Web\obj\x86\Debug\Interop.SpeechLib.dll
+c:\documents and settings\cavorta\belgelerim\visual studio 2010\Projects\Alpha Web\Alpha Web\obj\x86\Debug\Alpha Web.csproj.ResolveComReference.cache
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\Alpha Web.exe.manifest
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\Alpha Web.application
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\x86\Debug\Alpha Web.exe.manifest
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\x86\Debug\Alpha Web.application
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\x86\Debug\Alpha_Web.komutlar.resources
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\Alpha Web.exe.config
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\WebKit.Interop.dll
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\CefSharp.dll
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\CefSharp.Example.dll
+C:\Documents and Settings\Cavorta\Belgelerim\Visual Studio 2010\Projects\Alpha Web\Alpha Web\bin\Debug\CefSharp.WinForms.dll
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\bin\Debug\Alpha Web.exe.config
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\obj\x86\Debug\Alpha Web.csproj.ResolveComReference.cache
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\obj\x86\Debug\Alpha Web.exe
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\obj\x86\Debug\Alpha Web.pdb
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\bin\Debug\Alpha Web.exe.manifest
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\bin\Debug\Alpha Web.application
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\bin\Debug\Alpha Web.exe
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\bin\Debug\Alpha Web.pdb
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\bin\Debug\CefSharp.dll
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\bin\Debug\CefSharp.Example.dll
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\bin\Debug\CefSharp.WinForms.dll
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\bin\Debug\WebKit.Interop.dll
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\obj\x86\Debug\Alpha_Web.Form1.resources
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\obj\x86\Debug\Alpha_Web.komutlar.resources
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\obj\x86\Debug\Alpha_Web.Properties.Resources.resources
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\obj\x86\Debug\Alpha Web.exe.manifest
+C:\Documents and Settings\User\Belgelerim\Alpha Web\Alpha Web\obj\x86\Debug\Alpha Web.application
